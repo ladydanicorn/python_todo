@@ -46,6 +46,5 @@ Upon running the application, you'll be presented with a menu of options:
 ## Error Handling
 The application includes robust error handling to manage unexpected user inputs, demonstrating proper exception handling techniques.
 
-## Additional Notes
-- Tasks are stored in memory during the session. They are not saved permanently and will be lost when you quit the application.
-- The application goes beyond the basic requirements by including features like adding multiple tasks at once and reordering tasks, showcasing additional programming skills.
+## Github Repository Link
+https://github.com/ladydanicorn/python_todo
